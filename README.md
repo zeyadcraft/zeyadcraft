@@ -1,29 +1,4 @@
 <div align="center" width="50">
-
-
-<!DOCTYPE html>
-<html>
-<body style="margin:0; display:flex; justify-content:center; align-items:center; height:100vh; background:#0d1117; flex-direction:column; font-family:Arial;">
-
-<h1 style="color:#58a6ff; font-size:50px; margin:0;">
-    Hello Coders
-</h1>
-
-<p style="color:#c9d1d9; font-size:25px; margin-top:10px;">
-    I am Zeyad Craft
-</p>
-
-</body>
-</html>
-
-
-
-
-
-
-
-
-
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/zeyadcraft" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/zeyadcraft" alt="I am Zeyad — Web Craftsman" width="40%"/><br>
 
