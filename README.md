@@ -1,5 +1,37 @@
 <div align="center" width="50">
 
+
+<h1 class="title">Hello Coders</h1>
+<p class="subtitle">I am Zeyad Craft</p>
+
+
+
+
+.title {
+  font-size: 40px;
+  animation: fade 2s ease-in-out;
+}
+
+.subtitle {
+  font-size: 25px;
+  color: gray;
+  animation: fade 3s ease-in-out;
+}
+
+@keyframes fade {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+
+
+
+
+
+
+
+
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/zeyadcraft" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/zeyadcraft" alt="I am Zeyad — Web Craftsman" width="40%"/><br>
 
