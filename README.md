@@ -7,8 +7,6 @@
 [![telegram badge](https://img.shields.io/badge/Zeyad_development-grey?style=flat&logo=telegram)](https://t.me/Zeyad_development)
 [![whatsapp badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201114451527)
 
-<h3>Iam learning flutter</h3>
-
 </div>
 
 <hr>
