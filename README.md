@@ -1,28 +1,20 @@
 <div align="center" width="50">
 
 
-<h1 class="title">Hello Coders</h1>
-<p class="subtitle">I am Zeyad Craft</p>
+<!DOCTYPE html>
+<html>
+<body style="margin:0; display:flex; justify-content:center; align-items:center; height:100vh; background:#0d1117; flex-direction:column; font-family:Arial;">
 
+<h1 style="color:#58a6ff; font-size:50px; margin:0;">
+    Hello Coders
+</h1>
 
+<p style="color:#c9d1d9; font-size:25px; margin-top:10px;">
+    I am Zeyad Craft
+</p>
 
-
-.title {
-  font-size: 40px;
-  animation: fade 2s ease-in-out;
-}
-
-.subtitle {
-  font-size: 25px;
-  color: gray;
-  animation: fade 3s ease-in-out;
-}
-
-@keyframes fade {
-  from { opacity: 0; transform: translateY(20px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
+</body>
+</html>
 
 
 
